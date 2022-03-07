@@ -115,7 +115,60 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIQAKUEV
 
+[Document5]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for BikeHUD_PCB\BikeHUD_PCB 14-32 2022-03-07\NC Drill\BikeHUD_PCB_Rev1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for BikeHUD_PCB\BikeHUD_PCB 14-32 2022-03-07\Gerber\BikeHUD_PCB_Rev1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for BikeHUD_PCB\BikeHUD_PCB 14-32 2022-03-07\Gerber\BikeHUD_PCB_Rev1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for BikeHUD_PCB\BikeHUD_PCB 14-32 2022-03-07\Gerber\BikeHUD_PCB_Rev1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for BikeHUD_PCB\BikeHUD_PCB 14-32 2022-03-07\Gerber\BikeHUD_PCB_Rev1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for BikeHUD_PCB\BikeHUD_PCB 14-32 2022-03-07\NC Drill\BikeHUD_PCB_Rev1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for BikeHUD_PCB\BikeHUD_PCB 14-32 2022-03-07\Gerber\BikeHUD_PCB_Rev1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for BikeHUD_PCB\BikeHUD_PCB 14-32 2022-03-07\Gerber\BikeHUD_PCB_Rev1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for BikeHUD_PCB\BikeHUD_PCB 14-32 2022-03-07\NC Drill\BikeHUD_PCB_Rev1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument10]
 DocumentPath=Project Outputs for BikeHUD_PCB\Design Rule Check - BikeHUD_PCB_Rev1.html
 DItemRevisionGUID=
 
