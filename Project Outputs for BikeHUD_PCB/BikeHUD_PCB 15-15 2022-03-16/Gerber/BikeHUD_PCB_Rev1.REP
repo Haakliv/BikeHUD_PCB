@@ -1,0 +1,52 @@
+*************************************************************
+FileName = BikeHUD_PCB_Rev1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : BikeHUD_PCB_Rev1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : BikeHUD_PCB_Rev1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : BikeHUD_PCB_Rev1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+

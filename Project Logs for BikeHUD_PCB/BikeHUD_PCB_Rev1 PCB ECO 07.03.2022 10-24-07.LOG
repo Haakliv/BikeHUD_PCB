@@ -1,0 +1,41 @@
+Added Component: Designator=P3(2222)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://cdn-shop.adafruit.com/product-files/2222/00587.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://cdn-shop.adafruit.com/product-files/2222/00587.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,50000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1528-1785-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VINTF Pin=P3-2
+Added Pin To Net: NetName=VSYNC Pin=P3-3
+Added Pin To Net: NetName=HSYNC Pin=P3-5
+Added Pin To Net: NetName=Data17 Pin=P3-7
+Added Pin To Net: NetName=Data9 Pin=P3-8
+Added Pin To Net: NetName=Data10 Pin=P3-10
+Added Pin To Net: NetName=Data0 Pin=P3-11
+Added Pin To Net: NetName=Data1 Pin=P3-12
+Added Pin To Net: NetName=LED_CTRL Pin=P3-13
+Added Pin To Net: NetName=BTN1 Pin=P3-15
+Added Pin To Net: NetName=EXT_SDA Pin=P3-16
+Added Pin To Net: NetName=EXT_SCL Pin=P3-18
+Added Pin To Net: NetName=Data5 Pin=P3-19
+Added Pin To Net: NetName=Data15 Pin=P3-21
+Added Pin To Net: NetName=BTN2 Pin=P3-22
+Added Pin To Net: NetName=Data6 Pin=P3-23
+Added Pin To Net: NetName=Data14 Pin=P3-24
+Added Pin To Net: NetName=Data13 Pin=P3-26
+Added Pin To Net: NetName=PCLK Pin=P3-27
+Added Pin To Net: NetName=DATAEN Pin=P3-28
+Added Pin To Net: NetName=Data11 Pin=P3-29
+Added Pin To Net: NetName=Data12 Pin=P3-31
+Added Pin To Net: NetName=Data7 Pin=P3-32
+Added Pin To Net: NetName=Data8 Pin=P3-33
+Added Pin To Net: NetName=Data2 Pin=P3-35
+Added Pin To Net: NetName=Data16 Pin=P3-36
+Added Pin To Net: NetName=BTN3 Pin=P3-37
+Added Pin To Net: NetName=Data3 Pin=P3-38
+Added Pin To Net: NetName=0V Pin=P3-39
+Added Pin To Net: NetName=Data4 Pin=P3-40
+Added Member To Class: ClassName=Main Member=Component P3 2x20 Header

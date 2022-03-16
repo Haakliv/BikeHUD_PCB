@@ -1,0 +1,15 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [BikeHUD_PCB_Rev1.PcbDoc]
+   Generated File[BikeHUD_PCB_Rev1.GTL]
+   Generated File[BikeHUD_PCB_Rev1.GBL]
+   Generated File[BikeHUD_PCB_Rev1.GKO]
+   Generated File[BikeHUD_PCB_Rev1.RUL]
+   Generated File[BikeHUD_PCB_Rev1.EXTREP]
+   Generated File[BikeHUD_PCB_Rev1.REP]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 14:32:39 On 07.03.2022
